@@ -1,76 +1,55 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+Hello Microverse Project
+Creating a github repository and using linters to create html and css file.
 
-# Hello Microverse
+.
 
-> creating hello microverse page
+Built With
+HTML and CSS
+HTML and CSS linters - stylelint, webhint, lighthouse-
+Atom and Github
+GITHub Page
 
-![screenshot](./app_screenshot.png)
+Github Page Link.
+https://github.com/tasnimulhasan07
 
-Additional description about the project and its features.
-
-## Built With
-
-- html css
-- using visual studio code
-- github was used to create this
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
+Getting Started
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Prerequisites -
+Vist the git hub page Github Page Link.
 
-### Setup
+Install -
+If not already downloaded, download Visual Studio, atom or any other IDE source code editor It may also help to download GitHub Desktop application
 
-### Install
+Setup -
+If Github desktop application is insalled in your device you can download the prokect directly to that. Once downloaded GitHub will give you the option to create a clone of the project, this will then allow you to open said project to your IDE.
 
-### Usage
+If you do not have the GitHub desktop application you can download the project as a zip file directly to you computer. when the download is complete extract the folder to a location of your choice. After this you can open you IDE of choice and open the project folder.
 
-### Run tests
+Usage
+As this project is to test our knowledge you will have unlimited useage to also learn and practice.
 
-### Deployment
+Run tests
+test can me ran locally on your meachine by using the run function on your IDE.
 
+Deployment
+As this is not a formal prject there will be no need of deployment
 
+Authors
+ Author1
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
+GitHub: tasnimulhasan07
+Twitter:
+LinkedIn:
+ Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the https://github.com/tasnimulhasan07/hello-microverse-00 to get the project.
 
-## Show your support
-
+Show your support
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+Acknowledgments
+Microverse
+ License
+This project is MIT licensed.
